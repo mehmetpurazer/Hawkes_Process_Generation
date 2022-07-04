@@ -1,0 +1,14 @@
+Package: HawkesPoissonProcessSim
+Type: Package
+Title: Hawkes Propcess and Non-Homogeneous Poisson Process Generation
+Version: 0.1.0
+Author: Mehmet Atilla Purazer
+Maintainer: Mehmet Atilla Purazer <mehmet.purazer@boun.edu.tr>
+Description: Hawkes Propcess and Non-Homogeneous Poisson Process Generation
+    with different algorithms
+License: GLP-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
+Imports: quantmod , stats, xts, Runuran
+Suggests: knitr
